@@ -1,0 +1,17 @@
+{
+  "quarters": [
+    "Q1",
+    "Q2",
+    "Q3",
+    "Q4"
+  ],
+  "mrr_growth": [
+    8.11,
+    3.15,
+    6.31,
+    9.42
+  ],
+  "average": 6.75,
+  "industry_target": 15.0,
+  "recommendation": "Expand into new market segments"
+}

@@ -1,0 +1,5 @@
+MRR Quarterly Analysis (2024)
+Company quarterly MRR growth: [8.11, 3.15, 6.31, 9.42]
+Average MRR growth: 6.75
+Industry target: 15.0
+Recommendation: Expand into new market segments
